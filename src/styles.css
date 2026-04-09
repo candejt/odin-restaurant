@@ -3,6 +3,7 @@ body{
     background-color:rgb(230, 174, 90);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+/*home*/
 nav{
     display: flex;
     justify-content: center;
